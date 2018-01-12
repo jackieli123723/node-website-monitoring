@@ -1,0 +1,14 @@
+{
+  "name": "webmonit",
+  "version": "1.0.0",
+  "description": "monit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemailer": "^4.4.1",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
+}
