@@ -16,6 +16,7 @@
 > 正常
 
 ![列表界面](./ok.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackieli123723%2Fnode-website-monitoring.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackieli123723%2Fnode-website-monitoring?ref=badge_shield)
 
 > 502
 
@@ -25,3 +26,7 @@
 > 拒绝连接
 
 ![关于我界面](./refused.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackieli123723%2Fnode-website-monitoring.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackieli123723%2Fnode-website-monitoring?ref=badge_large)
